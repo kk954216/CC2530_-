@@ -10,7 +10,7 @@
     <Static>
       <Workspace>
         <ColumnWidths>
-          <Column0>302</Column0>
+          <Column0>241</Column0>
           <Column1>27</Column1>
           <Column2>27</Column2>
           <Column3>27</Column3>
@@ -22,16 +22,13 @@
         <ColumnWidth2>372</ColumnWidth2>
         <ColumnWidth3>93</ColumnWidth3>
       </Build>
-      <Debug-Log>
-        <ColumnWidth0>20</ColumnWidth0>
-        <ColumnWidth1>1861</ColumnWidth1>
-      </Debug-Log>
+      <TerminalIO/>
     </Static>
     <Windows>
       <Wnd0>
         <Tabs>
           <Tab>
-            <Identity>TabID-22208-18646</Identity>
+            <Identity>TabID-2762-25151</Identity>
             <TabName>Workspace</TabName>
             <Factory>Workspace</Factory>
             <Session>
@@ -48,34 +45,28 @@
       <Wnd1>
         <Tabs>
           <Tab>
-            <Identity>TabID-30865-18689</Identity>
+            <Identity>TabID-9726-29524</Identity>
             <TabName>Build</TabName>
             <Factory>Build</Factory>
             <Session/>
           </Tab>
-          <Tab>
-            <Identity>TabID-32580-21317</Identity>
-            <TabName>Debug Log</TabName>
-            <Factory>Debug-Log</Factory>
-            <Session/>
-          </Tab>
         </Tabs>
-        <SelectedTab>1</SelectedTab>
+        <SelectedTab>0</SelectedTab>
       </Wnd1>
     </Windows>
     <Editor>
       <Pane>
         <Tab>
           <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\..\..\..\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\8051\doc\infocenter\index.ENU.html</Filename>
+          <Filename>$WS_DIR$\..\..\..\..\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\8051\doc\infocenter\index.ENU.html</Filename>
         </Tab>
         <Tab>
           <Factory>TextEditor</Factory>
           <Filename>$WS_DIR$\keypad_lcd.c</Filename>
           <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>594</SelStart>
-          <SelEnd>594</SelEnd>
+          <YPos>9</YPos>
+          <SelStart>631</SelStart>
+          <SelEnd>631</SelEnd>
         </Tab>
         <ActiveTab>1</ActiveTab>
         <Tab>
@@ -83,16 +74,24 @@
           <Filename>$WS_DIR$\..\..\components\common\M270.h</Filename>
           <XPos>0</XPos>
           <YPos>0</YPos>
-          <SelStart>671</SelStart>
-          <SelEnd>686</SelEnd>
+          <SelStart>672</SelStart>
+          <SelEnd>672</SelEnd>
+        </Tab>
+        <Tab>
+          <Factory>TextEditor</Factory>
+          <Filename>$WS_DIR$\..\..\components\common\M270.c</Filename>
+          <XPos>0</XPos>
+          <YPos>0</YPos>
+          <SelStart>0</SelStart>
+          <SelEnd>0</SelEnd>
         </Tab>
         <Tab>
           <Factory>TextEditor</Factory>
           <Filename>$WS_DIR$\..\..\components\common\hal_cc8051.h</Filename>
           <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>1374</SelStart>
-          <SelEnd>1374</SelEnd>
+          <YPos>15</YPos>
+          <SelStart>0</SelStart>
+          <SelEnd>0</SelEnd>
         </Tab>
       </Pane>
       <ActivePane>0</ActivePane>
@@ -108,11 +107,24 @@
       <Top>
         <Row0>
           <Sizes>
-            <Toolbar-0029dfe0>
+            <Toolbar-00c1dfe0>
               <key>iaridepm.enu1</key>
-            </Toolbar-0029dfe0>
+            </Toolbar-00c1dfe0>
           </Sizes>
         </Row0>
+        <Row1>
+          <Sizes/>
+        </Row1>
+        <Row2>
+          <Sizes/>
+        </Row2>
+        <Row3>
+          <Sizes>
+            <Toolbar-0f8256f8>
+              <key>debuggergui.enu1</key>
+            </Toolbar-0f8256f8>
+          </Sizes>
+        </Row3>
       </Top>
       <Left>
         <Row0>
@@ -122,14 +134,14 @@
                 <Top>-2</Top>
                 <Left>-2</Left>
                 <Bottom>755</Bottom>
-                <Right>376</Right>
+                <Right>315</Right>
                 <x>-2</x>
                 <y>-2</y>
                 <xscreen>200</xscreen>
                 <yscreen>200</yscreen>
                 <sizeHorzCX>104167</sizeHorzCX>
                 <sizeHorzCY>200401</sizeHorzCY>
-                <sizeVertCX>196875</sizeVertCX>
+                <sizeVertCX>165104</sizeVertCX>
                 <sizeVertCY>758517</sizeVertCY>
               </Rect>
             </Wnd0>
